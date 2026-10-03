@@ -61,7 +61,6 @@ This is an end-to-end Business Intelligence project using PostgreSQL and Power B
 ## SQL Highlights
 SQL was used for data preparation, business analysis, KPI generation, and reusable reporting views using:
 - JOINs
-- CTEs
 - Aggregate functions
 - Window functions
 - Views
